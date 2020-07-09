@@ -1,0 +1,1 @@
+thePlayer.attack += 1;

@@ -1,0 +1,1 @@
+thePlayer.HP += 1;
